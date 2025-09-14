@@ -39,7 +39,7 @@ The key steps included:
 
 ###  **Visualization**
 
-![Sales Performance Dashboard](https://github.com/Aastha-collab/SQLite-Database-using-Python/commit/d5ba026d7246cf907ecfc101e576a5354fd93cba)
+![Sales Performance Dashboard](https://github.com/Aastha-collab/SQLite-Database-using-Python/blob/d5ba026d7246cf907ecfc101e576a5354fd93cba/Bar%20graph.png)
 
 > *Bar graph showing total quantity sold and revenue for each product. The visualization highlights that Smartphones and Laptops are the leading products contributing to overall sales.*
 
